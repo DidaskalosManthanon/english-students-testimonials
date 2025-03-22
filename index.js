@@ -23,12 +23,12 @@ const testimonials = [
         Les cours sont top et parfaitement adaptés à mes besoins. Laurent est passionné donc passionnant, éveille la curiosité sur un grand nombre de sujets et permet d'aborder l'anglais sous un autre aspect, ludique.`
     },
     {
-        name: "gilles",
+        name: "Gilles",
         photo: "./pics/gilles.webp",
         text:  `<strong>Bien !</strong> pour me faire progressé en conversation en anglais, çà ira très bien.`
     },
     {
-        name: "hugo",
+        name: "Hugo",
         photo: "./pics/hugo.webp",
         text:  `Laurent est confiant et passioné. Ses cours sont dynamique et interressant. On progresse très vite grâce à lui, je ne peux que vous le recommander.`
     },
@@ -64,7 +64,7 @@ Sa methode est rigoureuse, simple et Efficace.
 Je recommande volontier ce professeur.`
     },
     {
-        name: "martine",
+        name: "Martine",
         photo: "./pics/martine.webp",
         text:  `<strong>Parfait !</strong> 
         Je me prononcerai après quelques cours mais pour moi je le trouve très très bien.`
