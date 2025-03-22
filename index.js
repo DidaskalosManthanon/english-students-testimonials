@@ -50,7 +50,7 @@ Laurent à l'écoute et n'hésite pas à créer une discussion basée sur un con
         Pédagogue`
     },
     {
-        name: "marie",
+        name: "Marie",
         photo: "./pics/marie.webp",
         text:  `<strong>Parfait !</strong> Le premier cours était vraiment bien . Laurent prend le temps de connait son élève et comprendre les besoins. Je recommande.`
     },
